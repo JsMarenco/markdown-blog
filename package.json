@@ -1,0 +1,23 @@
+{
+  "name": "markdown-blog",
+  "version": "1.0.0",
+  "description": "Just a blog in markdown files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JsMarenco/markdown-blog.git"
+  },
+  "keywords": [
+    "blog",
+    "markdown"
+  ],
+  "author": "Angel Marenco <jsmarenco.dev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JsMarenco/markdown-blog/issues"
+  },
+  "homepage": "https://github.com/JsMarenco/markdown-blog#readme"
+}
